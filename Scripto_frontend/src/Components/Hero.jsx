@@ -9,7 +9,6 @@ const Hero = () => {
       className="flex flex-col md:flex-row items-center justify-between px-12 py-16 bg-white font-sans"
     >
       <div className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto px-6 md:px-12 py-32">
-        {/* Content Container */}
         {/* Left Content */}
         <div className="max-w-xl md:w-1/2">
           <h1 className="hero-font text-5xl font-bold leading-tight text-gray-900">
